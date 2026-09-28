@@ -1,6 +1,6 @@
 # Sentinel Traffic Control
 
-A desktop portfolio project with a responsive HTML/CSS dashboard embedded in PyQt6. A Qt WebChannel connects frontend controls to Python-owned traffic-signal state, countdowns, event logging, and a local OpenCV camera preview.
+A desktop portfolio project with a responsively embedded in PyQt6. A Qt WebChannel connects frontend controls to Python-owned traffic-signal state, countdowns, event logging, and a local OpenCV camera preview.
 
 ## Features
 
